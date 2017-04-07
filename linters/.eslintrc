@@ -40,7 +40,7 @@
     ],
     "strict": [
       2,
-      "function"
+      "global"
     ],
     "no-undef": 2,
     "no-unused-vars": 2,
@@ -51,7 +51,10 @@
     "no-eq-null": 2,
     "space-before-function-paren": [
       2,
-      "always"
+      {
+        "anonymous": "never",
+        "named": "always"
+      }
     ],
     "no-empty": [
       2,
@@ -62,7 +65,7 @@
     "no-spaced-func": 2,
     "array-bracket-spacing": [
       2,
-      "always"
+      "never"
     ],
     "space-in-parens": [
       2,
@@ -90,7 +93,7 @@
     "no-trailing-spaces": 2,
     "comma-dangle": [
       2,
-      "always-multiline"
+      "never"
     ],
     "comma-spacing": [
       2,
