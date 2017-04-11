@@ -1,0 +1,21 @@
+{
+  "name": "mediaman-javascript",
+  "version": "0.0.1",
+  "description": "A mostly reasonable approach to JavaScript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mediamanDE/javascript.git"
+  },
+  "keywords": [
+    "JS",
+    "Style Guide",
+    "linter",
+    "es5"
+  ],
+  "author": "mediaman GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mediamanDE/javascript/issues"
+  },
+  "homepage": "https://github.com/mediamanDE/javascript#readme"
+}
